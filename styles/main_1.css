@@ -1,0 +1,72 @@
+body{
+    height: 100vh;
+    
+}
+.main_1{
+    background: gray;
+   
+}
+
+.mark_main{
+    border: 1px solid white;
+    border-radius: 100px;
+    padding: 5px 19px;
+    background: black;
+    color: white;
+    font-family: regular;
+
+
+}
+
+
+
+.d1_main{
+    display: flex;
+    
+    padding: 200px 200px;
+   
+    
+}
+.blured{
+    border: 1px solid white;
+    background: transparent ;
+    border-radius: 20px;
+    backdrop-filter: blur(2px);
+    color: white;
+    width: 225px;
+    height: 182px;
+    position: absolute;
+    top: 290px;
+    right: 100px;
+
+}
+.blured h2{
+    color: white;
+    font-family: bold;
+    font-size: 32px;
+    margin-left: 25px;
+    margin-bottom: 0;
+    
+}
+.blured h5{
+    color: #FFFFFFA1;
+    font-family: light;
+    
+    margin-left: 30px;
+}
+.d2_main h1{
+    font-size: 96px;
+    color: white;
+}
+.picture_circle{
+    background: #FFFFFF4D;
+    backdrop-filter: blur(30px);
+    border-radius: 100%;
+    width: 67px;
+    height: 67px;
+    margin-left: 630px;
+
+
+}
+
+

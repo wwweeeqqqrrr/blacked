@@ -1,0 +1,194 @@
+
+body{
+	margin: 0;
+}
+
+
+.gray_header{
+	margin-top: 0;
+	height: 1080px;
+	width: 100%;
+	background: rgb(2,0,36);
+	
+	background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(203,203,203,1) 0%, rgba(140,140,140,1) 48%,  rgba(144,144,144,1) 90%, rgba(0,0,0,1) 100%);
+}
+
+.header_footer{
+	display: flex;
+	margin-left: 200px;
+	margin-right: 200px;
+	position: relative;
+	top: 50px;
+	
+}
+
+.logo_header{
+	display: flex;
+}
+.name_footer{
+	font-family: regular;
+	font-size: 24px;
+	color: white;
+	margin-left: 14px;
+}
+
+.second_footer_a{
+	display: flex;
+	justify-content: space-around;
+	
+
+}
+.navigator{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	margin-left: 95px;
+	align-self: center;
+}
+
+.header_input{
+	
+	width: 590px;
+	height: 56px;
+	border: 1px solid white;
+	border-radius: 40px;
+	background-color: transparent;
+	
+	align-self: center;
+	
+}
+
+input::placeholder{
+	font-size: 14px;
+	
+	font-family: light;
+	padding-left: 30px;
+	font-style: italic;
+	color: white;
+}
+
+.img_header{
+	display: flex;
+	margin-left: 50px;
+
+}
+
+#img_header{
+	height: 35px;
+	width: 35px;
+	margin-left: 10px;
+	align-self: center;
+}
+
+
+.header_search{
+	margin-left: 110px;
+	position: relative;
+	top: 10px;
+}
+input{
+	width: 590px;
+	height: 56px;
+	background-color: transparent;
+	padding-left: 15px;
+	border: 1px solid white;
+	border-radius: 30px;
+}
+.button_d1{
+	height: 26px;
+	width: 26px;
+	position: absolute;
+	top: 15px;
+	right: 28px;
+	background-color: transparent;
+	cursor: pointer;
+	border: none;
+}
+
+.second_header{
+	margin-top: 400px;
+	
+}
+
+.d1{
+	display: flex;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.d1 h1{
+	font-size: 96px;
+	color: white;
+	font-family: regular;
+	line-height: 115px;
+	
+}
+.d1 h5{
+	font-size:14px;
+	color: #FFFFFFBF ;
+	align-self:center;
+	margin-top:  120px;
+	margin-left: 120px;
+	width: 344px;
+	line-height: 30px;
+}
+
+.d2{
+	margin-top: 50px;
+	display: flex;
+	margin-left: 200px;
+	margin-right: 400px;
+}
+
+.d2 div h3{
+	font-size: 27px;
+	color: white;
+	margin-left: 10px;
+
+}
+.d2 div select {
+	margin-top: 10px;
+	background-color: transparent;
+	border: none;
+	color: white;
+	margin-top: 10px;
+	font-size: 40px;
+	
+	
+	
+
+}
+.d2 div select option{
+	color: white;
+	background-color: transparent;
+}
+
+.d2 div{
+	margin-left: 100px;
+}
+.d2 div:first-child{
+	margin-left: 0;
+}
+.d2 button {
+	display: flex;
+	margin-left: 158px;
+	border: 1px solid white ;
+	border-radius: 10px;
+	margin-top: 70px;
+	width: 140px;
+	padding:10px;
+	height: 60px;
+	background-color: transparent;
+	cursor: pointer;
+	
+	
+	
+	
+
+}
+.d2 button p{
+	font-size: 24px;
+	align-self: center;
+	color:white;
+	
+}

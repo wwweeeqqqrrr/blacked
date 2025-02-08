@@ -1,0 +1,20 @@
+@font-face {
+	font-family:"extrabold" ;
+	src: url('fonts/Barlow-Black.ttf');
+}
+@font-face {
+	font-family:"bold" ;
+	src: url('fonts/Barlow-Bold.ttf');
+}
+@font-face {
+	font-family:"light" ;
+	src: url('fonts/Barlow-ExtraLight.ttf');
+}
+@font-face {
+	font-family:"medium" ;
+	src: url('fonts/Barlow-Medium.ttf');
+}
+@font-face {
+	font-family:"regular" ;
+	src: url('fonts/Barlow-Regular.ttf');
+}
